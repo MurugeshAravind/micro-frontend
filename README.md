@@ -70,11 +70,8 @@ micro-frontend-example/
 │   └── package.json
 │
 └── docs/                       # Documentation
-    ├── QUICK_START.md
     ├── ARCHITECTURE.md
-    ├── MODULE_FEDERATION_EXPLAINED.md
     ├── TROUBLESHOOTING.md
-    └── ERROR_FIX.md
 ```
 
 ## 🔑 Key Concepts
